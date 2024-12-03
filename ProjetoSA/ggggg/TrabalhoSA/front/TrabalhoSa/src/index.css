@@ -1,0 +1,39 @@
+.containerH1 {
+    display: flex;
+    justify-content: center;
+}
+
+th {
+    background-color: #0055ff;
+    color: white;
+    width: 150px;
+}
+
+table {
+ 
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.pe{
+    display: flex;
+    flex-direction: column;
+}
+
+.conteiner_table{
+    height: 250px;
+    overflow-y: scroll;
+    width: 100%;
+    margin-top: 30px;
+}
